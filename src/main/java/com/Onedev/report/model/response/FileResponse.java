@@ -9,7 +9,7 @@ import lombok.Setter;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-public class File {
+public class FileResponse {
     String fileName;
     String fileExt;
     byte[] data;
